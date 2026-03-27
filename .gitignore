@@ -3,4 +3,5 @@ node_modules
 src/backup
 deploy.sh
 git_push.sh
+*.swp
 
