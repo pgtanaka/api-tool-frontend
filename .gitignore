@@ -1,7 +1,6 @@
 #ignore
 node_modules
 src/backup
-src/*.swp
 deploy.sh
 git_push.sh
 *.swp
